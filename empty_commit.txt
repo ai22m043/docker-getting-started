@@ -1,4 +1,5 @@
 ## empyt commit for GitHub Desktop ##
 
-- following docker tutorial without file changes
+- following docker tutorial without file changes + local registry
 - Multi-container apps
+- Docker Compose
